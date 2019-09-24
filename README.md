@@ -1,0 +1,2 @@
+# QlikSecurity
+OWASP and WASC
